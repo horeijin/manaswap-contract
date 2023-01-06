@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# Hardhat 실행 샘플
 
 
 ```shell
 yarn
 yarn hardhat compile
-yarn hardhat test test/Exchange.ts 
+yarn hardhat test test/.ts 
 ```
